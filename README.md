@@ -1,1 +1,2 @@
-My first readme
+ALX is so tough!!!
+But we keep going.
